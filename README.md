@@ -22,5 +22,3 @@ Conversor.java - Faz a conversão
 Precisa do gson.jar para funcionar
 
 Projeto de estudante aprendendo Java! 😊
-
-Perfeito para colocar no topo do seu README no GitHub!
